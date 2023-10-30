@@ -1,0 +1,4 @@
+
+
+print(weight = input(float('weight'))
+height = input(float('height'))
