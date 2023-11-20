@@ -74,7 +74,7 @@ def create_and_insert_flats():
         port=5432,
         database="aruodas_informacija",
         user="postgres",
-        password="Trepsi4batai!"
+        password="********"
     )
 
     cursor = connection.cursor()
